@@ -17,7 +17,7 @@ title = "Blowfish"
  [params.author]
    name = "Morten Jensen"
    email = "mortenjenne@gmail.com"
-   image = "img/Profilbilled.jpg"
+   image = "img/profile.jpg"
    imageQuality = 96
    headline = "Datamatiker studerende"
    bio = "Jeg er tidligere kok, nu datamatiker studerende"
