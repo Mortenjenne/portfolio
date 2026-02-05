@@ -2,9 +2,15 @@
 none = "none"
 
 [[main]]
-name = "Blog Posts"
+name = "Blog"
 pageRef = "posts"
 identifier = "ZIxgIcoXld"
+weight = 9_999
+
+[[main]]
+name = "Projects"
+pageRef = "projects"
+identifier = "ZIxgIcoXl2"
 weight = 9_999
 
 [[main]]
