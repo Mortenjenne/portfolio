@@ -21,6 +21,8 @@ Many canteens and restaurants emphasize that cooks should propose dishes they wa
 
 This creative ownership is what keeps talented cooks engaged. It's the difference between "I'm just following recipes" and "I'm crafting experiences."
 
+![Menu suggestions](/img/blog/menu-sug.jpg "A menu suggestion from the hot station, hand written on a scrap of paper")
+
 But here's the problem.
 
 ## The Chaos Nobody's Solving
